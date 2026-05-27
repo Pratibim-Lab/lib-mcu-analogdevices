@@ -1,0 +1,17 @@
+{
+  "id": "MCU_AnalogDevices/MAX32660GTP:MAX32660GTP",
+  "name": "MAX32660GTP",
+  "library": "MCU_AnalogDevices",
+  "file": "MCU_AnalogDevices.kicad_symdir/MAX32660GTP.kicad_sym",
+  "description": "Cortex-M4 Microcontroller, WQFN-20 (Maxim T2044+5C)",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/max32660.pdf",
+  "keywords": "ARM 32-bit Cortex-M4 Maxim ADI Darwin",
+  "footprint": "Package_DFN_QFN:WQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-analogdevices@master/parts/MAX32660GTP/",
+  "part_path": "parts/MAX32660GTP",
+  "symbol_file": "parts/MAX32660GTP/MAX32660GTP.kicad_sym",
+  "source_library": "MCU_AnalogDevices.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:52.416Z"
+}

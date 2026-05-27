@@ -1,0 +1,17 @@
+{
+  "id": "MCU_AnalogDevices/ADUC816BSZ:ADUC816BSZ",
+  "name": "ADUC816BSZ",
+  "library": "MCU_AnalogDevices",
+  "file": "MCU_AnalogDevices.kicad_symdir/ADUC816BSZ.kicad_sym",
+  "description": "MicroConverter, Dual-Channel 16-bit ADCs with Embedded Flash MCU, 12-bit DAC, 256 Bytes User RAM, 8KB Flash/EE Program Memory, 640 Bytes Flash/EE Data Memory, PQFP-52 (MQFP-52, case S-52-2)",
+  "datasheet": "https://www.analog.com/static/imported-files/data_sheets/ADUC816.pdf",
+  "keywords": "8051-CORE microcontroller EEPROM sigma-delta-ADC UART I2C SPI WDT",
+  "footprint": "Package_QFP:MO112AC1_PQFP-52_10x10mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-analogdevices@master/parts/ADUC816BSZ/",
+  "part_path": "parts/ADUC816BSZ",
+  "symbol_file": "parts/ADUC816BSZ/ADUC816BSZ.kicad_sym",
+  "source_library": "MCU_AnalogDevices.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:52.410Z"
+}

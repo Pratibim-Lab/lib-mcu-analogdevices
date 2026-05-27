@@ -1,0 +1,17 @@
+{
+  "id": "MCU_AnalogDevices/MAX32670GTL:MAX32670GTL",
+  "name": "MAX32670GTL",
+  "library": "MCU_AnalogDevices",
+  "file": "MCU_AnalogDevices.kicad_symdir/MAX32670GTL.kicad_sym",
+  "description": "Cortex-M4 Microcontroller, TQFN-40",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/max32670-max32671.pdf",
+  "keywords": "ARM 32-bit Cortex-M4 Maxim ADI Darwin",
+  "footprint": "Package_DFN_QFN:TQFN-40-1EP_5x5mm_P0.4mm_EP3.5x3.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-analogdevices@master/parts/MAX32670GTL/",
+  "part_path": "parts/MAX32670GTL",
+  "symbol_file": "parts/MAX32670GTL/MAX32670GTL.kicad_sym",
+  "source_library": "MCU_AnalogDevices.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:52.420Z"
+}
